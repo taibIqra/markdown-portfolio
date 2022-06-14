@@ -1,1 +1,2 @@
-[GitHub Profile] (https://github.com/taibIqra)
+[[GitHub](https://github.com/taibIqra)
+
